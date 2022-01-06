@@ -1,0 +1,203 @@
+body {
+    margin: auto;
+    font-size: 16px;
+    line-height: 1.4;
+    font-family: 'Poppins', sans-serif;
+}
+
+.part_1 {
+    display: flex;
+}
+
+.stay_focused_text {
+    width: 50%;
+}
+
+.stay_focused_on {
+    padding: 150px 30px 150px 150px;
+}
+
+span {
+    color: #FAAC5A;
+}
+
+h1 {
+    font-size: 50px;
+    padding-left: 10px;
+}
+
+.button {
+    text-decoration: none;
+    background-color: #F1585C;
+    padding: 10px 30px;
+    color: white;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.stay_focused_img {
+    width: 50%;
+}
+
+.stay_focused_img img {
+    width: 64%;
+}
+
+.stay_focused_on_h1 {
+    border-left: 6px solid#F1585C;
+}
+
+.part_2 h2 {
+    font-size: 45px;
+    text-align: center;
+}
+
+.part_2_mision_vosion_gold {
+    display: flex;
+    margin-left: 148px;
+}
+
+.mission_vission_goals1 {
+    width: 22%;
+    background: #EBF2F3;
+    margin: 14px;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.mission_vission_goals1 img {
+    width: 120px;
+}
+
+.mission_vission_goals1 h4 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.mission_vission_goals2 {
+    width: 23%;
+    background: #FDECE8;
+    margin: 14px;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.mission_vission_goals2 img {
+    width: 120px;
+}
+
+.mission_vission_goals2 h4 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.mission_vission_goals3 {
+    width: 22%;
+    background: #FDF6D8;
+    margin: 14px;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.mission_vission_goals3 img {
+    width: 120px;
+}
+
+.mission_vission_goals3 h4 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.part_3 {
+    display: flex;
+    padding-bottom: 100px;
+}
+
+.devolop_img {
+    width: 40%;
+    padding-left: 124px;
+    position: relative;
+    z-index: 1;
+}
+
+.devolop_img img {
+    width: 400px;
+    margin: 63px 56px 0;
+}
+
+.devolop_img .shape {
+    position: absolute;
+    top: 50%;
+    left: 50px;
+    transform: translateY(-50%);
+    z-index: -1;
+    width: 227px;
+}
+
+.cevolop_text {
+    width: 50%;
+    padding: 0 150px 100px;
+}
+
+.cevolop_text h2 {
+    font-size: 50px;
+    line-height: 1.4;
+    margin-bottom: 10px;
+}
+
+.cevolop_text p {
+    margin-bottom: 50px;
+}
+
+.devolop_img1 {
+    width: 50%;
+}
+
+.devolop_img1 img {
+    width: 72%;
+}
+
+.part_4 {
+    display: flex;
+}
+
+.devolop_img5 {
+    margin-left: 250px;
+}
+
+.devolop_img5 img {
+    width: 280px;
+}
+.part_5{}
+.team_member_heding{text-align: center;font-size: 30px;}
+.team_members{display: flex;justify-content: center;}
+.team_members h2{}
+.team{width: 200px;height: 400px;padding: 15px;}
+.team img{width: 200px;height: 200px;border-radius: 100px;border: 3px solid gray;}
+.team h3{text-align: center;}
+footer {
+    text-align: center;
+    background: black;
+    padding: 10px;
+}
+
+footer h2 {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    margin-bottom: 0;
+}
+
+footer h2 span {
+    color: #F1585C;
+}
+
+footer p {
+    margin-top: 10px;
+    color: #FDECE8;
+}
+
+.part5 h2 {
+    font-size: 45px;
+    text-align: center;
+}
